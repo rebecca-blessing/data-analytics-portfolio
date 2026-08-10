@@ -50,12 +50,14 @@ An interactive Excel dashboard analyzing Netflix content using filters, formatti
 
 [View Project](./netflix-content-analysis)
 
-### 5. Excel VLOOKUP Project
-An Excel project demonstrating the use of VLOOKUP for retrieving and matching information across datasets.
+Additional Excel Project
+
+### 5. Excel Lookup & Data Retrieval Project
+An Excel project demonstrating the use of VLOOKUP, HLOOKUP, INDEX and Conditional Formatting for retrieving and organizing information from structured datasets.
 
 **Tools:** Microsoft Excel
 
-[View Project](./excel-vlookup-project)
+[View Project](./excel-lookup-data-retrieval)
 
 ## 🎯 Career Interests
 
