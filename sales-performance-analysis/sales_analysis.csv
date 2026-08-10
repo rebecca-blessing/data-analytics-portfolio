@@ -1,0 +1,12 @@
+sales_id,customer_name,region,product,sale_date,quantity,revenue
+101,John Doe,Lagos,Laptop,1/10/2025,2,400000
+104,John Doe,Lagos,Phone,2/20/2025,1,250000
+102,Mary Adel,Abuja,Phone,1/15/2025,1,250000
+103,Samuel Obi,Port Harcourt,Tablet,2/5/2025,3,300000
+105,Aisha Bello,Kano,Laptop,3/1/2025,1,200000
+106,Blessing Okafor,Lagos,Laptop,3/5/2025,1,220000
+107,Daniel Musa,Abuja,Phone,3/8/2025,2,500000
+108,Ifeanyi Uche,Onitsha,Tablet,3/10/2025,1,120000
+109,Zainab Lawal,Ibadan,Laptop,3/12/2025,2,420000
+110,Tunde Ajayi,Akure,Phone,3/15/2025,1,250000
+111,Fatima Sule,Minna,Tablet,3/18/2025,3,360000
