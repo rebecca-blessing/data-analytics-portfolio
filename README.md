@@ -4,7 +4,7 @@
 
 Welcome to my data analytics portfolio.
 
-I am a Junior Data Analyst with hands-on experience in data analysis, data cleaning, reporting and visualization. I use Microsoft Excel, SQL and Power BI to transform data into meaningful insights that can support better business and operational decisions.
+I am a Junior Data Analyst with hands-on experience in data analysis, data cleaning, reporting, visualization and dashboard development. I use Microsoft Excel, SQL and Power BI to transform data into meaningful insights and support data-driven decision-making.
 
 ## 🛠️ Technical Skills
 
@@ -15,37 +15,47 @@ I am a Junior Data Analyst with hands-on experience in data analysis, data clean
 - Data Analysis
 - PivotTables
 - Data Visualization
-- KPI Reporting
 - Dashboard Development
 - Power Query
 - DAX
+- KPI Reporting
 
-## 📊 Featured Projects
+## 📊 Projects
 
 ### 1. Student Academic Performance Analysis
-
-An analysis of student academic performance across six subjects, examining patterns by subject, gender, class level and attendance.
+Analysis of student academic performance across six subjects, examining patterns by subject, gender, class level and attendance.
 
 **Tools:** Microsoft Excel, PivotTables, Charts
 
-**Key areas analyzed:**
-- Average performance by subject
-- Performance by gender
-- Performance by class level
-- Attendance and exam performance
-- Identification of subjects requiring academic support
+[View Project](./student-academic-performance-analysis)
 
-### 2. Accenture North America – Data Analytics & Visualization
+### 2. Sales Performance Analysis
+An end-to-end sales analysis project involving data preparation and analysis using Excel and SQL, followed by an interactive Power BI dashboard.
 
-Data analytics and visualization job simulation completed through Forage.
+**Tools:** Excel, SQL, Power BI
 
-**Tools:** Data analysis, data cleaning, data modeling, dashboards and visualization
+[View Project](./sales-performance-analysis)
 
-### 3. Food Price Trend Analysis
+### 3. Personal Finance Analysis
+Analysis of income and expenses using Excel and Power BI to identify spending patterns and financial trends.
 
-Analysis of food price data to identify inflation and market trends, pricing patterns and volatility.
+**Tools:** Excel, Power BI
 
-**Tools:** Data analysis, reporting and visualization
+[View Project](./personal-finance-analysis)
+
+### 4. Netflix Content Analysis
+An interactive Excel dashboard analyzing Netflix content using filters, formatting and visualizations.
+
+**Tools:** Microsoft Excel
+
+[View Project](./netflix-content-analysis)
+
+### 5. Excel VLOOKUP Project
+An Excel project demonstrating the use of VLOOKUP for retrieving and matching information across datasets.
+
+**Tools:** Microsoft Excel
+
+[View Project](./excel-vlookup-project)
 
 ## 🎯 Career Interests
 
